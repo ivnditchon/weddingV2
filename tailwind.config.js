@@ -14,7 +14,7 @@ module.exports = {
         'image': "url('../images/banner.jpeg')"
       }),
       animation: {
-        'details': 'details 0.8s ease-in-out infinite',
+        'details': 'details 0.8s ease-in-out infininpm te',
         'modal': 'modal 0.8s ease-in-out forwards'
       },
       keyframes: {
