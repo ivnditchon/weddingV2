@@ -1,0 +1,20 @@
+{
+  "name": "weddingV2",
+  "version": "1.0.0",
+  "description": "Norham and Lally Salangguni",
+  "main": "index.js",
+  "scripts": {
+    "build-app": "npx tailwindcss -i ./src/tailwindcss/style.css -o ./dist/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivnditchon/weddingV2.git"
+  },
+  "keywords": [],
+  "author": "Ivan Ditchon/Yujin Oliveros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivnditchon/weddingV2/issues"
+  },
+  "homepage": "https://github.com/ivnditchon/weddingV2#readme"
+}
